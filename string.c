@@ -14,7 +14,8 @@ void str_compare(char* str1,char* str2){
 
 int main(int argc,char* argv[]){
 
-char* str;
+char* str1,str2;
+printf("Give two string: \n"); scanf("%s",str1);
 
 return 0;
 }
