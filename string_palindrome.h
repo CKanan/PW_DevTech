@@ -1,0 +1,1 @@
+void isPalindrome(char str[]);

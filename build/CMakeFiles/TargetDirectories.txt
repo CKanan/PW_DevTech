@@ -1,0 +1,3 @@
+/home/kenan/Desktop/PW_DevTech/build/CMakeFiles/rebuild_cache.dir
+/home/kenan/Desktop/PW_DevTech/build/CMakeFiles/edit_cache.dir
+/home/kenan/Desktop/PW_DevTech/build/CMakeFiles/pro.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/pro.dir/string_length.c.o CMakeFiles/pro.dir/string_compare.c.o CMakeFiles/pro.dir/string_palindrome.c.o CMakeFiles/pro.dir/main.c.o  -o pro -rdynamic 

@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kenan/Desktop/PW_DevTech/main.c
+stdio.h
+-
+string.h
+-
+string_length.h
+/home/kenan/Desktop/PW_DevTech/string_length.h
+string_compare.h
+/home/kenan/Desktop/PW_DevTech/string_compare.h
+string_palindrome.h
+/home/kenan/Desktop/PW_DevTech/string_palindrome.h
+
+/home/kenan/Desktop/PW_DevTech/string_compare.c
+
+/home/kenan/Desktop/PW_DevTech/string_compare.h
+
+/home/kenan/Desktop/PW_DevTech/string_length.c
+
+/home/kenan/Desktop/PW_DevTech/string_length.h
+
+/home/kenan/Desktop/PW_DevTech/string_palindrome.c
+
+/home/kenan/Desktop/PW_DevTech/string_palindrome.h
+
